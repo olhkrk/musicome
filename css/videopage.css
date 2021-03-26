@@ -1,0 +1,387 @@
+/**
+ * Custom video page
+ */
+
+.content .video_page_content {
+    width: 1600px;
+    min-height: 800px;
+    margin: 0 auto;
+    padding-top: 50px;
+    display: flex;
+    color: #ffffff;
+}
+
+.video_page_content .left_video_page_block {
+    width: 850px;
+    padding-right: 10px;
+}
+
+.video_page_content .right_video_page_block {
+    width: 750px;
+}
+
+.video_page_content .left_video_page_block .video_wrapper
+{
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    width: 840px;
+}
+
+.video_page_content .left_video_page_block .video_player_wrapper
+{
+    position:relative;
+    width: 840px;
+    height: 480px;
+}
+
+.video_page_content .left_video_page_block .video_player
+{
+    background: #000000;
+    width: 840px;
+    height: 480px;
+}
+
+.video_page_content .left_video_page_block .player_controls
+{
+    top: 440px;
+    height: 40px;
+    position: absolute;
+    background-color: #101010;
+    width: 100%;
+    display: flex;
+}
+
+.video_page_content .left_video_page_block .player_controls .play_pause_video_button
+{
+    width: 40px;
+    padding: 8px;
+}
+
+.video_page_content .left_video_page_block .player_controls .play_pause_video_button input[type="image"]
+{
+    height: 24px;
+}
+
+.video_page_content .left_video_page_block .vol_img
+{
+    width:20px;
+}
+
+.content .video_page_content .left_video_page_block .simple_video_button {
+    display: flex;
+}
+
+.content .video_page_content .left_video_page_block .simple_video_button .control_item {
+    cursor: pointer;
+    height: 20px;
+    padding: 10px;
+}
+
+.content .video_page_content .left_video_page_block .simple_video_button input[type=range] {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 120px;
+}
+
+.content .video_page_content .left_video_page_block .simple_video_button input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+}
+
+.content .video_page_content .left_video_page_block .simple_video_button input[type=range]:focus {
+    outline: none;
+}
+
+.content .video_page_content .left_video_page_block .simple_video_button input[type=range]::-ms-track {
+    width: 100%;
+    cursor: pointer;
+    background: transparent;
+    border-color: transparent;
+    color: transparent;
+}
+
+.content .video_page_content .left_video_page_block .simple_video_button input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    height: 15px;
+    width: 15px;
+    border-radius: 100px;
+    background: #ffffff;
+    cursor: pointer;
+    margin-top: -6px;
+}
+
+.content .video_page_content .left_video_page_block .simple_video_button input[type=range]::-moz-range-thumb {
+    height: 20px;
+    width: 20px;
+    border-radius: 100px;
+    background: #ffffff;
+    cursor: pointer;
+}
+
+.content .video_page_content .left_video_page_block .simple_video_button input[type=range]::-ms-thumb {
+    height: 20px;
+    width: 20px;
+    border-radius: 100px;
+    background: #ffffff;
+    cursor: pointer;
+}
+
+.content .video_page_content .left_video_page_block .simple_video_button input[type=range]::-webkit-slider-runnable-track {
+    width: 100%;
+    height: 3px;
+    cursor: pointer;
+    background: #ffffff;
+    border-radius: 1.3px;
+}
+
+.content .video_page_content .left_video_page_block .simple_video_button  input[type=range]:focus::-webkit-slider-runnable-track {
+    background: #ffffff;
+}
+
+.content .video_page_content .left_video_page_block .simple_video_button  input[type=range]::-moz-range-track {
+    width: 100%;
+    height: 4px;
+    cursor: pointer;
+    background: #ffffff;
+    border-radius: 1.3px;
+}
+
+.content .video_page_content .left_video_page_block .simple_video_button  input[type=range]::-ms-track {
+    width: 100%;
+    height: 3px;
+    cursor: pointer;
+    background: transparent;
+    border-color: transparent;
+    border-width: 16px 0;
+    color: transparent;
+}
+
+.content .video_page_content .left_video_page_block .simple_video_button input[type=range]::-ms-fill-lower {
+    background: #ffffff;
+}
+
+.content .video_page_content .left_video_page_block .simple_video_button input[type=range]:focus::-ms-fill-lower {
+    background: #ffffff;
+}
+
+.content .video_page_content .left_video_page_block .simple_video_button input[type=range]::-ms-fill-upper {
+    background: #ffffff;
+}
+
+.content .video_page_content .left_video_page_block .simple_video_button input[type=range]:focus::-ms-fill-upper {
+    background: #ffffff;
+}
+
+.content .video_page_content .left_video_page_block .change_screen_video_block {
+    height: 30px;
+    padding: 5px;
+}
+
+.content .video_page_content .left_video_page_block .change_screen_video_block input[type=image] {
+    height: 30px;
+}
+
+.video-js .vjs-big-play-button {
+    left: 375px !important;
+    top: 215px !important;
+}
+
+.video_page_content .movie_info_block {
+    margin-top: 30px;
+    width: 840px;
+    text-align: center;
+}
+
+.video_page_content .movie_info_block .movie_info_title {
+    font-size: 32pt;
+    font-weight: bold;
+}
+
+.video_page_content .movie_info_block  .movie_actors_block,
+.video_page_content .movie_info_block  .movie_year_block,
+.video_page_content .movie_info_block  .movie_countries_block {
+    margin: 0 auto;
+    width: 600px;
+    color: #BCBCBC;
+    font-size: 16pt;
+    padding-top: 15px;
+}
+
+.video_page_content .movie_info_block  .movie_actors_block {
+    padding-top: 30px;
+}
+
+.video_page_content .movie_info_block  .movie_actors_block a {
+    color: #BCBCBC;
+    font-size: 18pt;
+}
+
+.video_page_content  .right_video_page_block .right_top_video_page_block {
+    display: flex;
+    margin-left: 125px;
+}
+
+.video_page_content  .right_video_page_block .right_top_video_page_block .left_right_top_video_page_block {
+    width: 282px;
+    margin-right: 125px;
+}
+
+.video_page_content  .right_video_page_block .right_top_video_page_block .left_right_top_video_page_block img {
+    width: 282px;
+    height: 410px;
+    margin-bottom: 8px;
+}
+
+.video_page_content  .right_video_page_block .right_top_video_page_block .left_right_top_video_page_block .movie_info p {
+    color: #BCBCBC;
+    margin: 2px;
+}
+
+.video_page_content  .right_video_page_block .right_top_video_page_block .left_right_top_video_page_block .movie_info p a {
+    color: #BCBCBC;
+}
+
+.content .video_page_content .right_recommended_movies_items .carousel_vertical-wrapper .carousel_vertical-items .row_item .row_item_poster img {
+    width: 130px;
+    height: 200px;
+}
+
+.content .video_page_content .right_recommended_movies_items .carousel_vertical-wrapper {
+    width: 130px;
+    max-height: 520px;
+    margin: 0 auto;
+    overflow: hidden;
+    position:relative;
+}
+
+.content .video_page_content .right_recommended_movies_items .carousel_vertical-items {
+    height: 525px;
+    position: relative;
+}
+
+.content .video_page_content .right_recommended_movies_items .row_item_info .content_item_name {
+    padding-top: 5px;
+    width: 130px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 10pt;
+    font-weight: bold;
+}
+
+.content .video_page_content .right_recommended_movies_items .row_item_info .content_item_year {
+    width: 130px;
+    text-align: center;
+    color: #BCBCBC;
+    font-size: 8pt;
+}
+
+.content .video_page_content .right_recommended_movies_items {
+    width: 250px;
+}
+
+.content .video_page_content .right_right_top_video_page_block .block_title {
+    width: 250px;
+    text-align: center;
+    margin: 0 auto;
+    color: #bcbcbc;
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+.content .video_page_content .right_recommended_movies_items .carousel_vertical {
+    margin-top: 10px;
+}
+
+.content .video_page_content .right_bottom_video_page_block {
+    margin-left: 125px;
+}
+
+.content .video_page_content .right_bottom_video_page_block .playlist_title {
+    color: #bcbcbc;
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+.content .video_page_content .right_bottom_video_page_block .playlist .playlist_items {
+    padding-right: 10px;
+    position: relative;
+}
+
+.content .video_page_content .right_bottom_video_page_block .playlist .playlist_items .playlist_item {
+    display: flex;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    border-bottom: 1px solid #353535;
+}
+
+.content .video_page_content .right_bottom_video_page_block .playlist .playlist_items .playlist_item .song_poster img {
+    width: 60px;
+    height: 60px;
+}
+
+.content .video_page_content .right_bottom_video_page_block .playlist .playlist_items .playlist_item .song_info {
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.content .video_page_content .right_bottom_video_page_block .playlist .playlist_items .playlist_item .song_info .song_title {
+    font-size: 16pt;
+    color: #BCBCBC;
+}
+
+.content .video_page_content .right_bottom_video_page_block .playlist .playlist_items .playlist_item .song_info .singer a {
+    font-size: 12pt;
+    text-decoration: none;
+    color: #BCBCBC;
+}
+
+.content .video_page_content .right_bottom_video_page_block .playlist .playlist_items .playlist_item .song_info .singer a:hover {
+    border-bottom: 1px solid #BCBCBC;
+}
+
+.content .video_page_content .right_bottom_video_page_block .playlist {
+    width: 100%;
+    max-height: 150px;
+    margin-top: 10px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-bottom: 0;
+    border-top: 1px solid #BCBCBC;
+    border-bottom: 1px solid #353535;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.content .video_page_content .right_bottom_video_page_block .playlist .playlist_items .play_playlist {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    background: rgba(0, 0, 0, 0.2);
+    top: 0;
+    left: 0;
+}
+
+.content .video_page_content .right_bottom_video_page_block .playlist .playlist_items .play_playlist .play_button {
+    margin: 45px auto;
+    width: 60px;
+}
+
+.content .video_page_content .right_bottom_video_page_block .playlist .playlist_items .play_playlist a {
+    width: 100%;
+    height: 100%;
+}
+
+.content .video_page_content .right_top_video_page_block .rating_movie_block {
+    margin-top: 10px;
+    display: flex;
+    width: 60px;
+}
+
+.content .video_page_content .right_top_video_page_block .rating_movie_block .top_music_control_block_item img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}

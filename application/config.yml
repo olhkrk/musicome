@@ -1,0 +1,6 @@
+config:
+  database:
+    username: root
+    password: 1q@W3e$R
+    name: musicome
+    host: localhost

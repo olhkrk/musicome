@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Musicome\\": "application/"
+    }
+  },
+  "require": {
+    "ext-yaml": "*",
+    "ext-pdo": "*"
+  }
+}

@@ -1,0 +1,181 @@
+.channel_page_content {
+    width: 1600px;
+    margin: 0 auto;
+    margin-top: 120px;
+    margin-bottom: 75px;
+}
+
+.channel_page_content .top_music_block {
+    display: flex;
+}
+
+.channel_page_content .top_music_block .poster {
+    width: 200px;
+}
+.channel_page_content .top_music_block .poster  img {
+    width: 200px;
+    height: 200px;
+}
+
+.channel_page_content .top_music_block .description {
+    width: 750px;
+    margin-left: 75px;
+    margin-top: 55px;
+    color: #ffffff;
+}
+
+.channel_page_content .top_music_block .description .channel_title {
+    font-size: 20pt;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.channel_page_content .top_music_block .description .channel_description {
+    color: #BCBCBC
+}
+
+.content .channel_page_content .music_block {
+    margin-top: 75px;
+    width: 1100px
+}
+
+.content .channel_page_content.history .music_block {
+    margin-top: 25px;
+    width: 1100px
+}
+
+.content .channel_page_content.search .block_title {
+    color: #bcbcbc;
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+.content .channel_page_content.history .block_title {
+    color: #ffffff;
+    font-size: 24pt;
+    font-weight: bold;
+}
+
+.content .channel_page_content .music_block .playlist_title,
+.content .channel_page_content.movie_page .block_title {
+    color: #bcbcbc;
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+.content .channel_page_content .music_block .playlist .playlist_items {
+    padding-right: 10px;
+    position: relative;
+}
+
+.content .channel_page_content .music_block .playlist .playlist_items .playlist_item {
+    display: flex;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    border-bottom: 1px solid #353535;
+}
+
+.content .channel_page_content .music_block .playlist .playlist_items .playlist_item .song_poster img {
+    width: 60px;
+    height: 60px;
+}
+
+.content .channel_page_content .music_block .playlist .playlist_items .playlist_item .song_info {
+    margin-left: 75px;
+    margin-top: 20px;
+    width: 250px;
+}
+
+.content .channel_page_content .music_block .playlist .playlist_items .playlist_item .song_info.singer {
+    width: 250px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.content .channel_page_content .music_block .playlist .playlist_items .playlist_item .song_info .song_title {
+    font-size: 16pt;
+    color: #BCBCBC;
+}
+
+.content .channel_page_content .music_block .playlist .playlist_items .playlist_item .song_info .singer a {
+    font-size: 12pt;
+    text-decoration: none;
+    color: #BCBCBC;
+}
+
+.content .channel_page_content .music_block .playlist .playlist_items .playlist_item .song_info .singer a:hover {
+    border-bottom: 1px solid #BCBCBC;
+}
+
+.content .channel_page_content .music_block .playlist {
+    width: 100%;
+    max-height: 320px;
+    margin-top: 10px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-bottom: 0;
+    border-top: 1px solid #BCBCBC;
+    border-bottom: 1px solid #353535;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.content .channel_page_content .music_block .playlist .playlist_items .play_playlist {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    background: rgba(0, 0, 0, 0.2);
+    top: 0;
+    left: 0;
+}
+
+.content .channel_page_content .music_block .playlist .playlist_items .play_playlist .play_button {
+    margin: 130px auto;
+    width: 60px;
+}
+
+.content .channel_page_content .music_block .playlist .playlist_items .play_playlist a {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.content .channel_page_content .home_page_content_row {
+    margin-top: 75px;
+}
+
+.content .channel_page_content .home_page_content_row .playlist_title {
+    color: #bcbcbc;
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+.home_page_content.movies_home_page_content.actor_page {
+    background: none;
+}
+
+.home_page_content.movies_home_page_content.search_page {
+    margin-top: 25px;
+    padding-top: 0;
+    background: none;
+}
+
+.onpage_search_form {
+    width: 1500px;
+}
+
+.onpage_search_form .onpage_search_input {
+    width: 100%;
+    background: #252525;
+    color: #FFFFFF;
+    font-size: 14pt;
+    border: 1px solid rgba(153,153,153,0.2);
+    padding: 10px;
+}
+
+.onpage_search_form .onpage_search_input::placeholder {
+    color: #999999;
+}

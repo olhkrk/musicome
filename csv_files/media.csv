@@ -1,0 +1,100 @@
+type_id,path,duraction,title,picture,created_at,album
+1,/media/audio/b/i/billie_eilish_bad_guy.mp3,00:03:14,Bad Guy,/media/image/b/i/billie-eilish-when-we-all-fall-asleep.jpg,2020-06-07,1
+1,/media/audio/t/w/twenty_one_pilots_chlorine.mp3,00:05:25,Chlorine,/media/image/t/w/Twenty_One_Pilots_Trench.png,2020-06-07,2
+1,/media/audio/m/a/maroon_5_moves_like_jagger.mp3,00:03:22,Moves Like Jagger,/media/image/m/a/maroon_5_moves_like_jagger.jpg,2020-06-07,0
+1,/media/audio/n/i/niletto_lyubimka,00:03:39,Любимка,/media/image/n/i/niletto_lyubimka.jpg,2020-06-07,3
+1,/media/audio/p/h/pharrell_williams_freedom.mp3,00:02:43,Freedom,/media/image/f/r/Freedom_by_Pharrell_Williams.png,2020-06-07,0
+1,/media/audio/j/o/john_newman_love_me_again.mp3,00:03:45,Love Me Again,/media/image/j/o/john_newman_love_me_again.jpg,2020-06-07,4
+1,/media/audio/i/m/imagine_dragons_beliver.mp3,00:03:23,Believer,/media/image/i/m/imagine_dragons_evolve.jpeg,2020-06-07,7
+1,/media/audio/t/w/twenty_one_pilotes_the_judge.mp3,00:04:57,The Judge,/media/image/t/w/Twenty_One_Pilots_Trench.png,2020-06-07,5
+1,/media/audio/b/i/billie_eilish_bury_a_friend.mp3,00:03:14,burry a friend,/media/image/b/i/billie-eilish-when-we-all-fall-asleep.jpg,2020-06-07,1
+1,/media/audio/b/i/billie-eilish-i-love-you.mp3,00:04:52,I love you,/media/image/b/i/billie-eilish-when-we-all-fall-asleep.jpg,2020-06-07,1
+1,/media/audio/b/i/billie-eilish-copycat.mp3,00:03:15,COPYCAT,/media/image/b/i/billie-eilish-dont-smile-at-me.jpg,2020-06-07,6
+1,/media/audio/b/i/billie_eilish_no_time_to_die.mp3,00:04:03,No time to die,/media/image/b/i/billie_eilish_no_time_to_die.png,2020-06-07,0
+1,/media/audio/i/m/imagine_dragons_thunder.mp3,00:03:43,Thunder,/media/image/i/m/imagine_dragons_evolve.jpeg,2020-06-07,7
+1,/media/audio/i/m/imagine-dragons-radioactive.mp3,00:03:06,Radioactive,/media/image/i/m/imagine_dragons_night_visions.jpeg,2020-06-07,8
+1,/media/audio/i/m/imagine_dragons_natural.mp3,00:03:09,Natural,/media/image/i/m/imagine_dragons_origins.png,2020-06-07,9
+1,/media/audio/m/a/Maroon-5-Sugar.mp3,00:03:05,Sugar,/media/image/m/a/maroon_5_v.jpg,2020-06-07,10
+1,/media/audio/m/a/maroon_5_girls_like_you.mp3,00:03:55,Girls Like You,/media/image/m/a/maroon_5_red_pill_blues.jpg,2020-06-07,11
+1,/media/audio/m/a/maroon-5-animals.mp3,00:03:51,Animals,/media/image/m/a/maroon_5_v.jpg,2020-06-07,10
+1,/media/audio/p/h/pharrell_williams_happy.mp3,00:03:53,Happy,/media/image/p/h/pharrell_williams_happy.png,2020-06-07,0
+1,/media/audio/b/r/bruno-mars-24k-magic(mp3ritm.top).mp3,00:03:46,24K Magic,/media/image/b/r/bruno_mars_24k_magic.jpg,2020-06-07,12
+1,/media/audio/b/r/bruno-mars-the-lazy-song(pod-muzyku.club).mp3,00:03:15,The Lazy Song,/media/image/b/r/bruno_mars_doo_wops_and_hooligans.jpg,2020-06-07,13
+1,/media/audio/b/r/Bruno_Mars_-_Thats_What_I_Like.mp3,00:03:26,That’s What I Like,/media/image/b/r/bruno_mars_24k_magic.jpg,2020-06-07,12
+1,/media/audio/p/i/pitbull-feat-kesha-timber(mp3ritm.top).mp3,00:03:24,Timber,/media/image/p/i/pitbull_kesha_timber.jpeg,2020-06-07,14
+1,/media/audio/p/i/pitbull-feat-marc-anthony-rain-over-me(mixmp3.club).mp3,00:03:51,Rain Over Me,/media/image/p/i/pibull_planet_pit.jpg,2020-06-07,15
+1,/media/audio/p/i/pitbull_ft_ne-yo__afrojack__nayer_-_give_me_everything_(zf.fm).mp3,00:04:12,Give Me Everything,/media/image/p/i/pibull_planet_pit.jpg,2020-06-07,15
+1,/media/audio/m/a/Macklemore & Ryan Lewis – Thrift Shop.mp4,00:03:55,Thrift Shop,/media/image/m/a/Macklemore_&_Ryan_Lewis_The_Heist.jpeg,2020-06-07,16
+1,/media/audio/e/d/Shape Of You.mp3,00:03:53,Shape of You,/media/image/e/d/ed-sheeran-divide-deluxe-edition.800x800.png,2020-06-07,17
+1,/media/audio/e/d/Ed_Sheeran_-_Perfect_(Acoustic).mp3,00:04:23,Prefect,/media/image/e/d/ed-sheeran-divide-deluxe-edition.800x800.png,2020-06-07,17
+1,/media/audio/e/d/Ed Sheeran – Photograph.mp3,00:04:19,Photograph,/media/image/e/d/ed_sheeran_multiply.jpg,2020-06-07,18
+1,/media/audio/t/h/the_weekend_blinding_lights.mp4,00:03:22,Blinding lights,/media/image/t/h/the_weekend_blinding_lights.jpg,2020-06-07,19
+1,/media/audio/d/r/Drake - God_s Plan.mp3,00:03:18,God’s Plan,/media/image/d/r/Drake_—_Scorpion.jpg,2020-06-07,20
+1,/media/audio/d/r/Drake - Toosie Slide.mp3,00:04:07,Toosie Slide,/media/image/d/r/Drake_—_Scorpion.jpg,2020-06-07,0
+1,/media/audio/d/r/In My Feelings – Drake.mp3,00:03:37,In My Feelings,/media/image/d/r/Drake_—_Scorpion.jpg,2020-06-07,20
+1,/media/audio/g/r/Green Day – Holiday .mp3,00:03:52,Holiday,/media/image/TestScreen_square.svg,2020-06-07,21
+1,/media/audio/g/r/green_day_21_guns.mp3,00:05:22,21 Guns,/media/image/TestScreen_square.svg,2020-06-07,22
+1,/media/audio/g/r/Green Day - American Idiot.mp3,00:02:54,American Idiot,/media/image/TestScreen_square.svg,2020-06-07,21
+1,"/media/audio/d/a/David Guetta ft Ne-Yo & Akon  – Work hard, play hard.mp3",00:05:12,Play Hard,/media/image/TestScreen_square.svg,2020-06-07,0
+1,/media/audio/a/r/Blah Blah Blah   Armin van Buuren.mp3,00:02:55,Blah Blah Blah,/media/image/TestScreen_square.svg,2020-06-07,24
+1,/media/audio/a/r/Armin van Buuren - Turn It Up (Extended Mix).mp3,00:06:45,Turn It Up,/media/image/TestScreen_square.svg,2020-06-07,24
+1,/media/audio/a/r/Armin van Buuren - Great Spirit.mp3,00:07:38,Great Spirit,/media/image/TestScreen_square.svg,2020-06-07,24
+1,/media/audio/r/a/Rammshtein – Du hast.mp3,00:04:27,Du Hast,/media/image/TestScreen_square.svg,2020-06-07,0
+1,/media/audio/r/a/Rammstein – Engel.mp3,00:04:24,Engel,/media/image/TestScreen_square.svg,2020-06-07,0
+1,/media/audio/r/a/Rammstein – Deutschland.mp3,00:05:34,Deutschland,/media/image/TestScreen_square.svg,2020-06-07,0
+1,/media/audio/q/u/Queen - Greatest Hits - 01 - Bohemian Rhapsody.flac,00:05:55,Bohemian Rhapsody,/media/image/TestScreen_square.svg,2020-06-07,0
+1,/media/audio/q/u/We Will Rock You   Queen.mp3,00:02:03,We Will Rock You,/media/image/TestScreen_square.svg,2020-06-07,0
+1,/media/audio/q/u/2-03 Radio Ga Ga.mp3,00:05:49,Radio Ga Ga,/media/image/TestScreen_square.svg,2020-06-07,0
+1,/media/audio/q/u/Queen – Don't Stop Me Now.mp3,00:03:30,Don’t Stop Me Now,/media/image/TestScreen_square.svg,2020-06-07,0
+1,/media/audio/m/o/Monatik - LOVE IT ритм.mp3,00:03:55,Love It Ритм,/media/image/TestScreen_square.svg,2020-06-07,25
+1,/media/audio/m/o/Кружит голову   Монатик.mp3,00:02:34,Кружит,/media/image/TestScreen_square.svg,2020-06-07,26
+1,/media/audio/m/o/L'ONE feat. MONATIK – Сон 2016.mp3,00:03:10,Сон,/media/image/TestScreen_square.svg,2020-06-07,27
+1,/media/audio/a/e/Vechnye_Hity-Aerosmith_-_Crazy_(GET.MP3-MUSIC.CLUB).mp3,00:05:17,Crazy,/media/image/TestScreen_square.svg,2020-06-07,28
+1,/media/audio/a/e/aerosmith_aerosmit_-_amazing_(zf.fm).mp3,00:05:56,Amazing,/media/image/TestScreen_square.svg,2020-06-07,28
+1,/media/audio/b/o/It s My Life   Bon Jovi.mp3,00:03:44,It’s my Live,/media/image/TestScreen_square.svg,2020-06-07,29
+1,/media/audio/b/o/Always.mp3,00:05:55,Always,/media/image/TestScreen_square.svg,2020-06-07,30
+1,/media/audio/b/o/Bon Jovi – Bad of roses.mp3,00:05:38,Bed of Roses,/media/image/TestScreen_square.svg,2020-06-07,31
+1,/media/audio/t/h/01-Come Together Remastered 2009.mp3,00:04:19,Come Together,/media/image/TestScreen_square.svg,2020-06-07,32
+1,/media/audio/t/h/The Beatles 1969 Abbey Road – Here Comes The Sun.mp3,00:03:06,Here Comes The Sun,/media/image/TestScreen_square.svg,2020-06-07,32
+1,/media/audio/t/h/21666_The-Beatles-Hey-Jude.mp3,00:08:09,Hey Jude,/media/image/TestScreen_square.svg,2020-06-07,33
+1,/media/audio/r/a/02. Creep.flac,00:03:55,Creep,/media/image/TestScreen_square.svg,2020-06-07,34
+1,"/media/audio/e/m/Eminem, Juice WRLD - Godzilla (Lyrics).mp3",00:03:36,Godzilla,/media/image/TestScreen_square.svg,2020-06-07,35
+1,/media/audio/e/m/Eminem   Lose Yourself (House Beats Remix).mp3,00:03:23,Lose Yourself,/media/image/TestScreen_square.svg,2020-06-07,36
+1,/media/audio/e/m/Love the way you lie_ Eminem ft. Rihanna.mp3,00:04:26,Love The Way You Lie,/media/image/TestScreen_square.svg,2020-06-07,37
+1,/media/audio/l/i/02. XO Tour Life.mp3,00:02:59,XO Tour Llif3,/media/image/TestScreen_square.svg,2020-06-07,38
+1,/media/audio/l/i/04-migos_feat_lil_uzi_vert-bad_and_boujee-573c481e.mp3,00:05:43,Bad And Boujee,/media/image/TestScreen_square.svg,2020-06-07,39
+1,/media/audio/p/o/Sunflower   Post Malone   Swae Lee.mp3,00:02:38,Sunflower,/media/image/TestScreen_square.svg,2020-06-07,40
+1,/media/audio/p/o/Post Malone – Circles(MP3_70K).mp3,00:03:46,Circles,/media/image/TestScreen_square.svg,2020-06-07,40
+1,/media/audio/l/a/10_Lady_Gaga_&_Bradley_Cooper-Shallow.mp3,00:03:35,Shallow,/media/image/TestScreen_square.svg,2020-06-07,41
+1,/media/audio/l/a/Lady_Gaga_BLACKPINK_Sour_Candy_Audio_.hd.mp3,00:02:38,Sour Candy,/media/image/TestScreen_square.svg,2020-06-07,42
+1,/media/audio/l/a/Lady Gaga - Rain On Me.mp3,00:03:02,Rain On Me,/media/image/TestScreen_square.svg,2020-06-07,42
+1,/media/audio/j/u/392139768.mp3,00:03:31,Yummy,/media/image/TestScreen_square.svg,2020-06-07,43
+1,/media/audio/j/u/DJ Snake ft Justin Bieber – Let Me Love You.mp3,00:03:02,Let Me Love,/media/image/TestScreen_square.svg,2020-06-07,44
+1,/media/audio/a/r/Ariana-Grande-7-Rings-128.mp3,00:02:59,7 rings,/media/image/TestScreen_square.svg,2020-06-07,45
+1,/media/audio/m/a/Малый Повзрослел   Макс Корж.mp3,00:03:25,Малый повзрослел,/media/image/TestScreen_square.svg,2020-06-07,46
+1,/media/audio/m/a/2 типа людей   Макс Корж.mp3,00:04:15,2 типа людей,/media/image/TestScreen_square.svg,2020-06-07,0
+1,/media/audio/m/a/Малиновый закат   Макс Корж.mp3,00:02:58,Малиновый закат,/media/image/TestScreen_square.svg,2020-06-07,47
+1,/media/audio/m/a/Макс Барских – Неверная.mp3,00:03:46,Неверная,/media/image/TestScreen_square.svg,2020-06-07,48
+1,/media/audio/t/h/The Hardkiss – Антарктида.mp3,00:03:58,Антарктида,/media/image/TestScreen_square.svg,2020-06-07,49
+1,/media/audio/t/h/The Hardkiss – Stones.mp3,00:03:18,Stones,/media/image/TestScreen_square.svg,2020-06-07,50
+1,/media/audio/a/r/2000   Артём Пивоваров.mp3,00:03:53,2000е,/media/image/TestScreen_square.svg,2020-06-07,0
+1,/media/audio/a/l/alyona alyona – Пушка.mp3,00:03:17,Пушка,/media/image/TestScreen_square.svg,2020-06-07,51
+1,/media/audio/a/l/alyona_alyona_-_litak.mp3,00:03:50,Літак,/media/image/TestScreen_square.svg,2020-06-07,51
+1,/media/audio/s/k/Скриптонит_feat_104_Мультибрендовый.mp3,00:03:10,Мультибрендовый,/media/image/TestScreen_square.svg,2020-06-07,0
+1,"/media/audio/o/l/Эй, секундочку   Оля Полякова.mp3",00:03:51,"Эй, секундочку",/media/image/TestScreen_square.svg,2020-06-07,0
+1,/media/audio/o/l/Оля_Полякова-Ночная_жрица.mp3,00:03:28,Ночная жрица,/media/image/TestScreen_square.svg,2020-06-07,0
+1,/media/audio/p/o/Порнофильмы - Уроки любви.mp3,00:05:16,Уроки любви,/media/image/TestScreen_square.svg,2020-06-07,52
+1,/media/audio/b/r/Bring Me The Horizon - Can You Feel My Heart – QJJYpsA5tv8.m4a,00:03:48,Can you feel my heart,/media/image/TestScreen_square.svg,2020-06-07,53
+1,/media/audio/f/r/Frank Sinatra – That's Life.mp3,00:03:07,That’s Life,/media/image/TestScreen_square.svg,2020-06-07,0
+1,/media/audio/f/r/I Will Wait For You - Frank Sinatra.m4a,00:02:16,I will wait for your,/media/image/TestScreen_square.svg,2020-06-07,0
+1,/media/audio/n/e/Louis_Armstrong_–_What_A_Wonderful.mp3,00:02:18,What A Wonderful World,/media/image/TestScreen_square.svg,2020-06-07,54
+1,/media/audio/n/e/Ella Fitzgerald and Louis Armstrong - Cheek To Cheek.mp3,00:05:40,Cheek to Cheek,/media/image/TestScreen_square.svg,2020-06-07,55
+1,/media/audio/l/i/Linkin-Park-In-The-End.mp3,00:03:41,In The End,/media/image/TestScreen_square.svg,2020-06-07,56
+1,/media/audio/d/u/Dua_Lipa_Don_t_Start_Now_Offi.mp3,00:03:05,Don’t Start Now,/media/image/TestScreen_square.svg,2020-06-07,57
+1,/media/audio/d/u/01. Break My Heart.mp3,00:03:57,Break My Heart,/media/image/TestScreen_square.svg,2020-06-07,57
+1,/media/audio/z/i/001.  Zivert  -  Life.mp3,00:03:08,Life,/media/image/TestScreen_square.svg,2020-06-07,58
+1,/media/audio/z/i/Zivert - Fly _ Vinyl _1 infdQ-ZHgD4.m4a,00:03:13,Fly,/media/image/TestScreen_square.svg,2020-06-07,58
+1,/media/audio/t/v/08 Мова Тіла.m4a,00:03:34,Мова тіла,/media/image/TestScreen_square.svg,2020-06-07,59
+1,/media/audio/o/t/Два нуль один вісім   O.Torvald.mp3,00:03:40,Два Нуль Один Вісім,/media/image/TestScreen_square.svg,2020-06-07,0
+1,/media/audio/b/a/01  Backstreet Boys - I Want It That Way.mp3,00:03:35,I Want It That Way,/media/image/TestScreen_square.svg,2020-06-07,60
+1,/media/audio/c/a/Shawn_Mendes_Señorita_Lyrics_Ft._Camila_Cabello.128.mp3,00:03:04,Señorita ,/media/image/TestScreen_square.svg,2020-06-07,61
